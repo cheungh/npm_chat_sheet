@@ -1,5 +1,5 @@
 ## List global installed modules
-```bash
+```shell
 npm -g ls
 ```
 
